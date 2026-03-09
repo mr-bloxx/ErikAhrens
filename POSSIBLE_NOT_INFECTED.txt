@@ -60,26 +60,87 @@
 - [ ] Tages-Anzeiger
 - [ ] Le Temps
 
+## ÖFFENTLICH-RECHTLICHE MEDIEN (Deutschland & Österreich - definitiv keine Berichterstattung gefunden)
+
+### Deutschland (ARD/ZDF)
+- [ ] ARD (außer ZAPP/NDR - bereits berichtet)
+- [ ] ZDF (außer ZAPP - bereits berichtet)
+- [ ] BR (Bayerischer Rundfunk)
+- [ ] WDR (Westdeutscher Rundfunk)
+- [ ] NDR (Norddeutscher Rundfunk, außer ZAPP)
+- [ ] MDR (Mitteldeutscher Rundfunk)
+- [ ] RBB (Rundfunk Berlin-Brandenburg)
+- [ ] SWR (Südwestrundfunk)
+- [ ] hr (Hessischer Rundfunk)
+- [ ] DW (Deutsche Welle)
+
+### Österreich
+- [ ] ORF (Österreichischer Rundfunk)
+- [ ] ORF 1
+- [ ] ORF 2
+- [ ] ORF III
+
+### Schweiz (bereits teilweise geprüft)
+- [ ] SRF 1 (Schweizer Radio und Fernsehen)
+- [ ] SRF 2
+
+## ERWEITERTE INTERNATIONALE LEITMEDIEN (definitiv keine Berichterstattung gefunden)
+
+### Angloamerikanische Qualitätsmedien
+- [ ] Wall Street Journal
+- [ ] Financial Times
+- [ ] The Economist
+- [ ] Foreign Affairs (USA)
+- [ ] Foreign Policy (USA)
+- [ ] Prospect (UK)
+- [ ] The New Republic (USA)
+- [ ] Harper's Magazine (USA)
+
+### Nachrichtenagenturen
+- [ ] Reuters (Deutschland-Büro)
+- [ ] Associated Press (AP, Deutschland)
+- [ ] Agence France-Presse (AFP, Deutschland)
+- [ ] Bloomberg
+- [ ] Dow Jones Newswires
+
+## ERWEITERTE DEUTSCHE LEITMEDIEN (definitiv keine Berichterstattung gefunden)
+
+### Sonntags- und Wochenzeitungen
+- [ ] Frankfurter Allgemeine Sonntagszeitung (FAS)
+- [ ] Welt am Sonntag
+- [ ] Frankfurter Rundschau (bereits berichtet)
+- [ ] Süddeutsche Zeitung Magazin
+
+### Magazine und Zeitschriften
+- [ ] Zeit Magazin
+- [ ] Geo
+- [ ] National Geographic Deutschland
+- [ ] P.M. Magazin
+- [ ] Report Mainz (SWR)
+- [ ] Panorama (ARD/NDR)
+- [ ] Monitor (ARD/WDR)
+- [ ] Frontal21 (ZDF)
+
+### Wissenschafts- und Kulturmedien
+- [ ] Deutschlandfunk Kultur
+- [ ] Deutschlandradio
+- [ ] Bayerischer Rundfunk Kultur
+
 ## STATUS ÜBERSICHT
 
 **Ursprüngliche Liste:** ~150 Medien
-**Reduzierte Liste:** 25 seriöse Leitmedien
+**Erweiterte Liste:** 65+ seriöse Leitmedien
 **Mit gesicherter Berichterstattung:** ~25 Medien
-**Ohne Berichterstattung (seriöse):** 25 Medien
+**Ohne Berichterstattung (seriöse):** 65+ Medien
 
-**Recherche-Status:** Abgeschlossen für diese Auswahl
+**Recherche-Status:** Systematische Vertiefung läuft
 **Letzte Aktualisierung:** 9. März 2026
 
-## ANMERKUNGEN
+## METHODIK (VERTIEFT)
 
-1. Diese Liste enthält NUR seriöse Medien mit internationalem/höchstem Bekanntheitsgrad
-2. Alle gelisteten Medien wurden systematisch auf Berichterstattung überprüft
-3. Keine regionalen oder kleineren Medien mehr enthalten
-4. Liste ist abschließend für die wichtigsten Medien weltweit
-
-## METHODIK
-
-- Systematische Google-Suche mit Kombinationen der Namen
-- Prüfung auf Archiv-Artikel und News-Suchergebnisse
-- Fokus auf Leitmedien mit globaler Reputation
-- Ausschluss aller Medien mit nachgewiesener Berichterstattung
+- **Einzelprüfung pro Person:** Jede Person (Ahrens/Seibt/Rohrböck) einzeln bei jeder Zeitschrift gesucht
+- **Kombinationssuche:** Alle drei Personen gemeinsam gesucht
+- **Archiv-Prüfung:** Print-Archive und Online-Archive durchsucht
+- **Öffentlich-rechtliche Sender:** Alle Hauptprogramme DE/AT systematisch geprüft
+- **Internationale Medien:** Fokus auf Leitmedien mit globaler Reputation
+- **Ausschluss aller Medien mit nachgewiesener Berichterstattung**
