@@ -12,11 +12,11 @@
 # - standpunkt.press (AT), Antifa VVN, ARD/ZAPP, Chrismon
 # - Idowa.de
 
-## GROßE DEUTSCHE MEDIEN (NOCH NICHT GEFUNDEN)
+## GROßE DEUTSCHE MEDIEN (BEREITS GEFUNDEN - AUS LISTE ENTFERNEN)
 
 ### Überregionale Tageszeitungen
-- [ ] Frankfurter Rundschau
-- [ ] Süddeutsche Zeitung
+- ✅ [Frankfurter Rundschau] - Berichtete über GegenUni (2021)
+- ✅ [Süddeutsche Zeitung] - Mehrere Verweise und Zitate (2024-2025)
 - [ ] Die Welt
 - [ ] Die Tageszeitung (taz)
 - [ ] Junge Welt
