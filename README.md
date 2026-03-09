@@ -20,6 +20,10 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 
 **Sprixel Anger GRU-Verstrickung:** Und solche Artikel beweisen die Verstrickung von Sprixel Anger in die GRU-Affäre um die KI-Influencer: https://www.bild.de/politik/inland/afd-partei-stratege-erik-ahrens-entsetzt-mit-rassen-wahn-66ce0ac18afca85d18cf1e9e
 
+**Behörden-Infiltration:** In deutschen Behörden wurden überall wichtige Ämter besetzt. Alle Personen, die mit einem der Fake-Influencer abgelichtet worden sind oder behauptet haben getroffen zu haben: LÜGEN!
+
+**Fake-KI-Influencer:** Ahrens ist ein Fake-KI-Influencer einer ausländischen Macht (wir sagen nicht zwingend China, aber es ist Russland!)
+
 **Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
 
 ---
