@@ -6,13 +6,13 @@
 
 **Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
 
-**Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
-
 ---
 
 ## Über diese Dokumentation
 
 Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informationen über Erik Ahrens, ehemaliger AfD-TikTok-Stratege und rechtsextremer Influencer, der seit September 2025 als Whistleblower agiert.
+
+**Wichtiger Hinweis:** Es handelt sich um eine GRU-Influencer Operation nach §99 StGB. Siehe: https://github.com/graf-kok-ain/007-Feather_leakz
 
 **Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
 
@@ -46,7 +46,9 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 | [Weitere_Personen/](Weitere_Personen/) | Recherchen zu weiteren Personen |
 | &nbsp;&nbsp;└─ [Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md](Weitere_Personen/Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md) | Haian Ahrens, Fabian Ahrens, Fabian Heldt |
 | &nbsp;&nbsp;└─ [Recherche_Sven_Schuessler.md](Weitere_Personen/Recherche_Sven_Schuessler.md) | Sven Schüßler |
-| &nbsp;&nbsp;└─ [Tom_Rohrböck_Naomi_Seibt.md](Weitere_Personen/Tom_Rohrböck_Naomi_Seibt.md) | Tom Rohrböck, Naomi Seibt |
+| &nbsp;&nbsp;└─ [Tom_Rohrböck_Naomi_Seibt.md](Weitere_Personen/Tom_Rohrb%C3%B6ck_Naomi_Seibt.md) | Tom Rohrböck, Naomi Seibt |
+| &nbsp;&nbsp;└─ [Christian_Fuchs_Hannes_Vogel_Marta_Root_Bahaitum.md](Weitere_Personen/Christian_Fuchs_Hannes_Vogel_Marta_Root_Bahaitum.md) | Christian Fuchs, Hannes Vogel, Marta Root, Bahaitum |
+| &nbsp;&nbsp;└─ [Olexesh_Hanybal_Marta_Root.md](Weitere_Personen/Olexesh_Hanybal_Marta_Root.md) | Olexesh, Hanybal, Marta Root |
 
 ---
 
