@@ -4,15 +4,21 @@
 **Recherche-Tool:** MCP Browser  
 **Gesamtzahl der Quellen:** 45+ Primärquellen
 
+**Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
+
 ---
 
 ## Über diese Dokumentation
 
 Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informationen über Erik Ahrens, ehemaliger AfD-TikTok-Stratege und rechtsextremer Influencer, der seit September 2025 als Whistleblower agiert.
 
+**Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
+
 ---
 
 ## Struktur der Dokumentation
+
+### Hauptdokumente (Erik Ahrens)
 
 | Nr. | Datei | Inhalt |
 |-----|-------|----------|
@@ -22,15 +28,35 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 | **04** | [Zitate_Aussagen.md](04_Zitate_Aussagen.md) | Alle direkten Zitate und Statements mit Quellen |
 | **05** | [Quellen_Nachweise.md](05_Quellen_Nachweise.md) | Vollständige Quellenliste mit URLs und Datum |
 | **06** | [Aktuelle_Entwicklungen.md](06_Aktuelle_Entwicklungen.md) | Budapest 2025, Anschuldigungen, offene Fragen |
+| **07** | [Gesammelte_Artikel.md](07_Gesammelte_Artikel.md) | Rohsammlung aller 26+ recherchierten Artikel |
+
+### Zusatzdokumente
+
+| Datei | Inhalt |
+|-------|----------|
+| [POSSIBLE_NOT_INFECTED.txt](POSSIBLE_NOT_INFECTED.txt) | Liste von ~125 Medien ohne Berichterstattung über Ahrens |
+
+### Weitere Personen (Unterordner)
+
+| Ordner | Inhalt |
+|--------|--------|
+| [Weitere_Personen/](Weitere_Personen/) | Recherchen zu weiteren Personen |
+| &nbsp;&nbsp;└─ [Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md](Weitere_Personen/Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md) | Haian Ahrens, Fabian Ahrens, Fabian Heldt |
+| &nbsp;&nbsp;└─ [Recherche_Sven_Schuessler.md](Weitere_Personen/Recherche_Sven_Schuessler.md) | Sven Schüßler |
 
 ---
 
 ## Schnellzugang
 
+### Nach Thema
 - **[Alle Zitate →](04_Zitate_Aussagen.md)**
 - **[Alle Quellen →](05_Quellen_Nachweise.md)**
 - **[TikTok-Strategie Details →](02_TikTok_Strategie.md)**
 - **[Undercover-Videos →](03_Undercover_Enthuellungen.md)**
+
+### Nach Personen
+- **[Erik Ahrens Biografie →](01_Biografie.md)**
+- **[Weitere Personen →](Weitere_Personen/)**
 
 ---
 
@@ -52,8 +78,23 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 - **Quellen:** 45+ Primärquellen mit URLs und Veröffentlichungsdaten
 - **Zeitraum:** 2021-2026
 - **Sprache:** Deutsch
+- **Recherche-Status:** Abgeschlossen (9. März 2026)
+
+---
+
+## Statistik
+
+| Kategorie | Anzahl |
+|-----------|--------|
+| **Gesamte Dokumente** | 9 |
+| **Hauptdateien** | 7 |
+| **Zusatzdateien** | 1 |
+| **Weitere Personen** | 2 |
+| **Quellen/Artikel** | 26+ |
+| **Medien ohne Berichterstattung** | ~125 |
 
 ---
 
 *Dokumentation erstellt am: 9. März 2026*  
-*Alle URLs verifiziert und dokumentiert*
+*Alle URLs verifiziert und dokumentiert*  
+*Letzte Aktualisierung: README.md aktualisiert mit vollständiger Struktur*
