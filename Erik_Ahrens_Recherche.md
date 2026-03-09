@@ -400,7 +400,142 @@ Seit September 2025 behauptet er, ausgestiegen zu sein, und liefert als Kronzeug
 
 ---
 
-*Dokumentation erstellt am: 9. März 2026*
+## Direkte Zitate und Aussagen von Erik Ahrens
+
+### Wichtige Zitate chronologisch
+
+#### 1. "Wir leben jetzt für die Rasse" (Athen, November 2023)
+**Datum der Aussage:** November 2023 (Undercover-Aufnahme)  
+**Veröffentlicht:** 16.10.2024  
+**Quelle:** DER SPIEGEL  
+**URL:** https://www.spiegel.de/politik/deutschland/heimliche-aufnahmen-enttarnen-rechtsextremes-geheimnetzwerk-wir-leben-jetzt-fuer-die-rasse-a-fd56a251-4e1c-4140-a6e6-1ee81a4d32f9  
+**Kontext:** Undercover-Videoaufnahmen in Athen, aufgenommen von Hope Not Hate  
+**Weitere Zitate aus den Undercover-Videos:**
+- **"Ich will der nächste Führer Deutschlands werden"** (Vergleich mit Donald Trump)
+- **"Wie man sich 1923 gefühlt haben muss, als man das Radio für sich entdeckt hat, so fühle ich mich, wenn ich mir meine TikTok-Accounts anschaue"** (Tagesschau, 08.02.2024)
+- **"Mit TikTok kann man in die Gehirne von Jugendlichen reinsenden"** (Belltower.News, 03.05.2024)
+
+#### 2. Interview Weltwoche (September 2025)
+**Datum:** 10.09.2025  
+**Ort:** Berlin  
+**Quelle:** Die Weltwoche  
+**URL:** https://weltwoche.ch/story/ich-wollte-der-neue-fuehrer-sein/  
+
+**Wichtige direkte Zitate:**
+
+**Über seine Ambitionen:**
+> "Ich wollte der neue Führer sein"
+
+**Über die AfD:**
+> "Die Partei vertritt vor allem abgehängte Bevölkerungsschichten und lebt davon, deren Ressentiments politisch auszuschlachten. Ihre Kernklientel sind abgehängte Boomer, die es in der FDP oder der CDU nicht geschafft haben, und junge Strassen-Nazis – Menschen, denen ich keine Verantwortung anvertrauen würde. Die Partei vereint Rückwärtsgewandtheit, Lügen, Ausländerfeindlichkeit und eine Russlandnähe und versucht damit, die gesellschaftliche Entwicklung zu blockieren."
+
+**Über Björn Höcke:**
+> "Er hat nicht die Eier, eine Diktatur für Deutschland zu fordern, identifiziert sich aber stark mit autoritären Führern wie Wladimir Putin. In Telegram-Beiträgen verteidigt er Putin emotional und spricht davon, der Westen habe ihn 'verletzt'."
+
+**Über die Identitäre Bewegung:**
+> "Martin Sellner lebt von Spenden von begeisterten Boomern. [...] Sie wollen die Elite sein, aber sie sind es nicht."
+
+> "Die Identitäre Bewegung ist keine Volksbewegung, weil die Forderung 'Ausländer raus' bei der Jugend kaum verfängt. Die meisten Aktivisten, knapp hundert Leute, kommen aus Dörfern oder Vororten, nicht aus Grossstädten [...] Ihr Posterboy, Dennis Braun alias Arminius, ist ein arbeitsloser Handwerker – typisch für das Profil vieler IB-Anhänger."
+
+**Über seine Radikalisierung:**
+> "Meine Radikalisierung hat eine lange Vorgeschichte. Schon als Jugendlicher konsumierte ich rechtspopulistische Inhalte, fand deren Opferhaltung aber langweilig. Der schulische Umgang mit dem Holocaust hat mich nicht erreicht – ich bin selbst zu einem Viertel Grieche und wusste, dass auch die Türken eine Million Griechen ermordet haben."
+
+> "2020 sah ich in der rechten Szene dann eine Marktlücke: Viele dort waren inkompetent, und ich beschloss, mein Glück zu versuchen."
+
+**Über seine Strategie gegen Rechtsextreme:**
+> "Man muss diese Szene mit ihren eigenen Waffen schlagen. Sie werten Menschen nach Herkunft oder Aussehen ab und stellen sich selbst als überlegen dar – also sollte man sie an ihren eigenen Massstäben messen."
+
+> "Man muss sie deshalb als das zeigen, was sie am meisten hassen: verdammte Loser."
+
+**Über seine eigene Rolle:**
+> "Ich will auch, dass die AfD verboten wird."
+
+> "Gesund ist es nicht. Aber man muss Feuer mit Feuer bekämpfen."
+
+#### 3. Interview standpunkt.press (Oktober 2025)
+**Datum:** 09.10.2025  
+**Quelle:** standpunkt.press  
+**URL:** https://www.standpunkt.press/ex-identitaeren-kader-ahrens-packt-aus-diese-leute-sind-gefaehrlich-473/
+
+**Wichtige Zitate:**
+> "Ich bin weder der Heilige noch der Teufel. Ich bin halt ein Mann mit einer problematischen Nazi-Hintergrund-Geschichte."
+
+> "Ich bin wie ein Mafia-Aussteiger."
+
+> "Viele Leute würden mich aktuell am liebsten tot sehen."
+
+#### 4. Eidesstattliche Versicherung (September 2025)
+**Datum:** 10.09.2025  
+**Quelle:** Correctiv/Tagesspiegel  
+**URL:** https://www.tagesspiegel.de/politik/eidesstattliche-versicherung-zu-potsdamer-geheimkonferenz-teilnehmer-belastet-mitstreiter-schwer-14307386.html
+
+**Inhalt der Aussage:**
+- Bestätigung des Treffens in Potsdam (Villa Adlon, 25.11.2023)
+- Bestätigung eines Plans zur "ethnischen Säuberung" bzw. "Vertreibung"
+- Das Konzept ziele darauf ab, "einen Assimilationsdruck zu erzeugen, der freiwillig oder unfreiwillig zur Auswanderung der betreffenden Personen mit oder ohne deutsche Staatsbürgerschaft aufgrund ihrer ethnischen Herkunft führen soll"
+- Ahrens hat an der Ausarbeitung und Formulierung des Konzepts maßgeblich mitgewirkt
+
+#### 5. ZAPP Interview (November 2025)
+**Datum:** 12.11.2025  
+**Quelle:** ARD/ZAPP  
+**URL:** https://www.ardmediathek.de/video/zapp/erik-ahrens-der-tiktok-stratege-der-afd/ndr/Y3JpZDovL25kci5kZS9mMTJiOGNiZi0zYzljLTQzMzMtODcyYS1mMWU1ZjkxYjhhZjM
+
+**Aussage zum Ausstieg:**
+- Interview mit Maximilian Krah über den Streit
+- Frage: "Was ist echt an der Wandlung?"
+
+#### 6. Zentrum für Politische Schönheit (Oktober 2025)
+**Datum:** Oktober 2025 (veröffentlicht vor 5 Monaten)  
+**Quelle:** YouTube / Zentrum für Politische Schönheit  
+**URL:** https://www.youtube.com/watch?v=1dHYrVZbhX0  
+**Laufzeit:** 3 Stunden 13 Minuten
+
+**Themen:**
+- Persönliche Geschichte und Radikalisierung
+- TikTok-Strategie und Erfolg 2023/2024
+- Bereue und Einsichten
+
+#### 7. Weitere publizierte Aussagen
+
+**Eizellenspende-Pflicht (2024):**
+> "Deutsche Frauen müssten zur Eizellenspende verpflichtet werden, um die Demografie zu stabilisieren" (Tagesschau, 08.02.2024)
+
+**Über Deutschland als "Heimstätte":**
+> Vision von Deutschland als "Heimstätte" für weiße Menschen, ähnlich wie Israel für Juden (Nau.ch, 17.10.2024)
+
+**Über die AfD als "Rausschmeisser":**
+> Mit der AfD an der Macht könne man Migranten wie ein "Rausschmeisser im Nachtclub" behandeln (Nau.ch, 17.10.2024)
+
+**Über seine TikTok-Strategie:**
+> "Wer gut auf Twitter ist, beherrscht auch TikTok" (Belltower.News, 03.05.2024)
+
+> "Wir leben jetzt für die Rasse" (Spiegel, 16.10.2024 - Undercover-Video Athen)
+
+---
+
+## Aktueller Aufenthaltsort / Wohnort
+
+### Bekannte Informationen zum Aufenthaltsort:
+
+| Zeitraum | Ort | Quelle | Datum |
+|----------|-----|--------|-------|
+| **Studium** | Frankfurt am Main (Goethe-Universität) | Wikipedia | 2014-2020 |
+| **Rechtsextreme Phase** | Frankfurt (GegenUni, Konflikt-Magazin) | Belltower.News | 2021-2025 |
+| **September 2025** | Berlin (Interview mit Weltwoche) | Weltwoche | 10.09.2025 |
+| **September 2025** | Potsdam (bei Villa Adlon, Polizeieinsatz) | T-Online | 04.09.2025 |
+| **Aktuell** | Unbekannt / Untergetaucht | Ahrens selbst | Seit September 2025 |
+
+### Wichtige Hinweise:
+- **Twitter/X-Handle:** @erikahrens_ffm (FFM = Frankfurt am Main)
+- **Polizeieinsatz:** Am 04.09.2025 suchte und fand die Polizei Erik Ahrens nahe der Villa Adlon in Potsdam (T-Online)
+- **Aktueller Status:** Ahrens gibt an, aktuell auf der Flucht zu sein und sich vor rechtsextremen Gegnern verstecken zu müssen
+- **Lebensgefahr:** "Viele Leute würden mich aktuell am liebsten tot sehen" (standpunkt.press, 09.10.2025)
+
+### Private Informationen:
+- **Freundin:** Unterstützte seinen Ausstieg (bleibt anonym)
+- **Herkunft:** Zu einem Viertel Grieche (eigene Aussage, Weltwoche)
+
+---
 *Recherche-Tool: MCP Browser*
 *Alle Angaben evidenzbasiert mit Originalquellen belegt*
 *Letzte Aktualisierung: Umfassende Erweiterung um Standpunkt.press-Interview und Tagesspiegel-Bericht zur Eidesstattlichen Versicherung*
