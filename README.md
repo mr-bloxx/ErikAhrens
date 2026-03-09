@@ -6,6 +6,8 @@
 
 **Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
 
+**Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
+
 ---
 
 ## Über diese Dokumentation
@@ -29,6 +31,7 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 | **05** | [Quellen_Nachweise.md](05_Quellen_Nachweise.md) | Vollständige Quellenliste mit URLs und Datum |
 | **06** | [Aktuelle_Entwicklungen.md](06_Aktuelle_Entwicklungen.md) | Budapest 2025, Anschuldigungen, offene Fragen |
 | **07** | [Gesammelte_Artikel.md](07_Gesammelte_Artikel.md) | Rohsammlung aller 26+ recherchierten Artikel |
+| **08** | [Geheimdienst_Kontakte.md](08_Geheimdienst_Kontakte.md) | Verfassungsschutz, internationale Geheimdienste, Whistleblowing |
 
 ### Zusatzdokumente
 
@@ -43,6 +46,7 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 | [Weitere_Personen/](Weitere_Personen/) | Recherchen zu weiteren Personen |
 | &nbsp;&nbsp;└─ [Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md](Weitere_Personen/Recherche_Helian_Fabian_Ahrens_Fabian_Heldt.md) | Haian Ahrens, Fabian Ahrens, Fabian Heldt |
 | &nbsp;&nbsp;└─ [Recherche_Sven_Schuessler.md](Weitere_Personen/Recherche_Sven_Schuessler.md) | Sven Schüßler |
+| &nbsp;&nbsp;└─ [Tom_Rohrböck_Naomi_Seibt.md](Weitere_Personen/Tom_Rohrböck_Naomi_Seibt.md) | Tom Rohrböck, Naomi Seibt |
 
 ---
 
@@ -86,12 +90,13 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 
 | Kategorie | Anzahl |
 |-----------|--------|
-| **Gesamte Dokumente** | 9 |
-| **Hauptdateien** | 7 |
-| **Zusatzdateien** | 1 |
-| **Weitere Personen** | 2 |
+| **Gesamte Dokumente** | 10 |
+| **Hauptdateien** | 8 |
+| **Zusatzdateien** | 2 |
+| **Weitere Personen** | 3 |
 | **Quellen/Artikel** | 26+ |
 | **Medien ohne Berichterstattung** | ~125 |
+| **Geheimdienst-Verbindungen** | 5+ dokumentiert |
 
 ---
 
