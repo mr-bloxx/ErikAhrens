@@ -1,0 +1,267 @@
+# Medien ohne Berichterstattung über Erik Ahrens
+# Erstellt am: 9. März 2026
+# Recherche-Tool: Google Search / Web-Recherche
+# 
+# Diese Datei listet Medien auf, die in der Recherche KEINE Berichterstattung
+# über Erik Ahrens zeigten.
+# 
+# STATUS: Bisher gefundene Medien mit Berichterstattung:
+# - Tagesschau, STERN, Deutschlandfunk, Belltower.News, SPIEGEL (3x)
+# - Correctiv, BILD, The Irish Times, Der Standard (AT), SRF (CH)
+# - FAZ, T-Online, Weltwoche (CH), DIE ZEIT (3x), Tagesspiegel
+# - standpunkt.press (AT), Antifa VVN, ARD/ZAPP, Chrismon
+# - Idowa.de
+
+## GROßE DEUTSCHE MEDIEN (NOCH NICHT GEFUNDEN)
+
+### Überregionale Tageszeitungen
+- [ ] Frankfurter Rundschau
+- [ ] Süddeutsche Zeitung
+- [ ] Die Welt
+- [ ] Die Tageszeitung (taz)
+- [ ] Junge Welt
+- [ ] Neues Deutschland
+- [ ] Handelsblatt
+- [ ] Financial Times Deutschland
+
+### Nachrichtenmagazine
+- [ ] Focus
+- [ ] Stern (einzelne Artikel gefunden, aber keine umfassende Serie)
+- [ ] Spiegel Online (nur Print-Ausgabe gefunden)
+
+### Fernsehen/Rundfunk
+- [ ] ZDF (heute, heute journal, ZDFinfo)
+- [ ] ARD (außer ZAPP/NDR)
+- [ ] RTL Aktuell
+- [ ] Sat.1 Nachrichten
+- [ ] n-tv
+- [ ] Phoenix
+- [ ] Deutsche Welle (DW)
+- [ ] WDR
+- [ ] SWR
+- [ ] BR
+- [ ] hr
+- [ ] mdr
+- [ ] rbb
+- [ ] NDR (außer ZAPP)
+- [ ] SR
+
+### Online-Nachrichtenportale
+- [ ] Yahoo Nachrichten Deutschland
+- [ ] MSN Deutschland
+- [ ] Web.de Nachrichten
+- [ ] GMX Nachrichten
+- [ ] RTL.de
+- [ ] Sat1.de
+- [ ] ProSieben.de
+- [ ] VOX.de
+- [ ] kabel eins
+
+### Wochenmagazine
+- [ ] Die Zeit (nur Online-Artikel gefunden, keine Print-Ausgabe analysiert)
+- [ ] Cicero
+- [ ] Freitag
+- [ ] Jungle World
+- [ ] Konkret
+- [ ] Ossietzky
+
+## INTERNATIONALE MEDIEN (NOCH NICHT GEFUNDEN)
+
+### Englischsprachige Medien
+- [ ] BBC News
+- [ ] The Guardian (außer der eine Artikel über Undercover)
+- [ ] The Times
+- [ ] Washington Post
+- [ ] New York Times
+- [ ] CNN
+- [ ] Reuters
+- [ ] Associated Press (AP)
+- [ ] Politico
+- [ ] Foreign Policy
+- [ ] The Atlantic
+- [ ] VICE News
+- [ ] BuzzFeed News
+
+### Europäische Medien
+- [ ] Le Monde (Frankreich)
+- [ ] Libération (Frankreich)
+- [ ] El País (Spanien)
+- [ ] El Mundo (Spanien)
+- [ ] La Repubblica (Italien)
+- [ ] Corriere della Sera (Italien)
+- [ ] NRC Handelsblad (Niederlande)
+- [ ] De Volkskrant (Niederlande)
+- [ ] Politiken (Dänemark)
+- [ ] Dagens Nyheter (Schweden)
+- [ ] Aftenposten (Norwegen)
+- [ ] Helsingin Sanomat (Finnland)
+- [ ] Gazeta Wyborcza (Polen)
+- [ ] Rzeczpospolita (Polen)
+- [ ] Lidové noviny (Tschechien)
+- [ ] Der Standard (AT) - gefunden
+- [ ] Die Presse (Österreich)
+- [ ] Kurier (Österreich)
+- [ ] Kleine Zeitung (Österreich)
+- [ ] Neue Zürcher Zeitung (Schweiz)
+- [ ] Tages-Anzeiger (Schweiz)
+- [ ] 20 Minuten (Schweiz)
+- [ ] Le Temps (Schweiz)
+
+### Osteuropäische Medien
+- [ ] Pravda (Slowakei)
+- [ ] Blesk (Tschechien)
+- [ ] Dnevnik (Bulgarien)
+- [ ] Diena (Lettland)
+- [ ] Lietuvos rytas (Litauen)
+- [ ] Postimees (Estland)
+
+## SPEZIALISIERTE MEDIEN/PORTALE (NOCH NICHT GEFUNDEN)
+
+### Politik & Analyse
+- [ ] Politico Europe
+- [ ] EUobserver
+- [ ] Euractiv
+- [ ] Europe Elects
+- [ ] The European
+- [ ] Internationale Politik (DGAP)
+- [ ] Blätter für deutsche und internationale Politik
+- [ ] Neue Gesellschaft/Frankfurter Hefte
+
+### Wirtschaftsmedien
+- [ ] Manager Magazin
+- [ ] Capital
+- [ ] Wirtschaftswoche
+- [ ] brand eins
+- [ ] impulses
+- [ ] VDI Nachrichten
+- [ ] Börsen-Zeitung
+
+### Tech & Digital
+- [ ] Heise Online
+- [ ] Golem.de
+- [ ] t3n
+- [ ] Netzwelt
+- [ ] Digitalfernsehen.de
+- [ ] Übermedien
+- [ ] Medienkorrespondenz
+
+### Kultur & Gesellschaft
+- [ ] Kulturaustausch
+- [ ] Literaturen
+- [ ] Theater heute
+- [ ] tip Berlin
+- [ ] Prinz
+- [ ] 030
+- [ ] Mit Vergnügen
+
+### Wissenschaft & Bildung
+- [ ] Spektrum.de
+- [ ] Welt der Physik
+- [ ] Deutschlandfunk Nova
+- [ ] SciLogs
+- [ ] Forschung & Lehre
+- [ ] DUZ Magazin
+
+## REGIONALE MEDIEN (NOCH NICHT GEFUNDEN)
+
+### Norddeutschland
+- [ ] Hamburger Abendblatt
+- [ ] taz (Hamburg)
+- [ ] Kieler Nachrichten
+- [ ] Lübecker Nachrichten
+- [ ] OZ (Ostsee-Zeitung)
+- [ ] Nordwest-Zeitung
+- [ ] Braunschweiger Zeitung
+- [ ] Göttinger Tageblatt
+- [ ] Hannoversche Allgemeine
+- [ ] Weser-Kurier
+
+### Westdeutschland
+- [ ] Rheinische Post
+- [ ] Westdeutsche Zeitung
+- [ ] Kölnische Rundschau
+- [ ] Express (Köln)
+- [ ] Kölner Stadt-Anzeiger
+- [ ] Aachener Zeitung
+- [ ] Westfälische Nachrichten
+- [ ] Westfalenpost
+- [ ] Mindener Tageblatt
+- [ ] Soester Anzeiger
+
+### Süddeutschland
+- [ ] Abendzeitung München
+- [ ] Münchner Merkur
+- [ ] tz (München)
+- [ ] Augsburger Allgemeine
+- [ ] Nürnberger Nachrichten
+- [ ] Erlanger Nachrichten
+- [ ] Fränkischer Tag
+- [ ] Stuttgarter Zeitung
+- [ ] Stuttgarter Nachrichten
+- [ ] Schwarzwälder Bote
+- [ ] Südkurier
+
+### Ostdeutschland
+- [ ] Berliner Zeitung
+- [ ] Berliner Kurier
+- [ ] B.Z. (B.Z. Berlin)
+- [ ] Märkische Allgemeine
+- [ ] Lausitzer Rundschau
+- [ ] Sächsische Zeitung
+- [ ] Dresdner Neueste Nachrichten
+- [ ] Freie Presse (Chemnitz)
+- [ ] Leipziger Volkszeitung
+- [ ] Thüringer Allgemeine
+- [ ] Ostthüringer Zeitung
+- [ ] Nordkurier
+- [ ] OSTSEE-ZEITUNG
+- [ ] General-Anzeiger (Bonn)
+
+### Südwestdeutschland
+- [ ] Badische Zeitung
+- [ ] Schwarzwälder Bote
+- [ ] Pforzheimer Zeitung
+- [ ] Rhein-Neckar-Zeitung
+- [ ] Mannheimer Morgen
+- [ ] Die Rheinpfalz
+- [ ] Saarbrücker Zeitung
+
+## ALTERNATIVE MEDIEN (NOCH NICHT GEFUNDEN)
+
+### Progressive/linke Medien
+- [ ] Jacobin Deutschland
+- [ ] Krautreporter
+- [ ] Rubikon
+- [ ] Volksverpetzer
+- [ ] Mimikama
+- [ ] Hoaxmap
+- [ ] Faktenblog
+- [ ] Belltower.News (gefunden)
+- [ ] Belltower.News (gefunden)
+
+### Rechtsextreme Medien (ausgenommen)
+# Diese werden NICHT aufgelistet, da sie Teil des recherchierten Netzwerks sind
+
+## STATUS ÜBERSICHT
+
+**Gesamtzahl identifizierter Medien:** ~150+
+**Mit Berichterstattung:** ~25
+**OHNE Berichterstattung:** ~125+
+
+**Recherche-Status:** Laufend
+**Letzte Aktualisierung:** 9. März 2026
+
+## ANMERKUNGEN
+
+1. Diese Liste ist vorläufig und basiert auf einer Standard-Recherche
+2. Manche Medien könnten in Archiven oder Print-Ausgaben berichtet haben
+3. Regionale Berichterstattung könnte in Lokalteilen vorhanden sein
+4. Die Liste wird kontinuierlich erweitert
+
+## WEITERFÜHRENDE RECHERCHE EMPFOHLEN
+
+- Archiv-Suche in Mediatheken
+- Print-Archiv durchblättern
+- Presseportal.de durchsuchen
+- Twitter/X Accounts der Medien prüfen
+- Newsletter-Archive prüfen

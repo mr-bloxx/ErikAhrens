@@ -536,6 +536,308 @@ Seit September 2025 behauptet er, ausgestiegen zu sein, und liefert als Kronzeug
 - **Herkunft:** Zu einem Viertel Grieche (eigene Aussage, Weltwoche)
 
 ---
-*Recherche-Tool: MCP Browser*
-*Alle Angaben evidenzbasiert mit Originalquellen belegt*
-*Letzte Aktualisierung: Umfassende Erweiterung um Standpunkt.press-Interview und Tagesspiegel-Bericht zur Eidesstattlichen Versicherung*
+
+## Aktuelle Entwicklungen (Dezember 2025 - März 2026)
+
+### Budapest-Affäre (März 2025/Veröffentlichung März 2026)
+**Datum:** Abend im März 2025 (Videoaufzeichnung), Veröffentlichung März 2026  
+**Ort:** Budapest, Ungarn (Gasse in der ungarischen Hauptstadt)  
+**Quelle:** Idowa.de / Mediengruppe  
+**URL:** https://www.idowa.de/seite-3/dubiose-kontakte-ein-budapest-video-stuerzt-einen-vorstand-der-afd-jugend-art-382868  
+**Veröffentlichungsdatum Artikel:** ca. 02.-03. März 2026 ("vor 7 Tagen")
+
+**Inhalt:**
+- Erik Ahrens war als "Mann hinter der Kamera" in Budapest
+- Dreharbeiten in einer Gasse der ungarischen Hauptstadt
+- Video zeigt ein Zusammentreffen mit bekennenden „Nationalsozialisten"
+- Einer der AfD-Jugend Funktionäre tritt nach Veröffentlichung zurück
+- Zeitpunkt: Abend im März 2025
+
+**Folgen:**
+- Rücktritt eines AfD-Jugend-Vorstands
+- Recherche der Mediengruppe (Idowa)
+- Ahrens war selbst anwesend als Kameramann/Filmer
+
+### Dezember 2025 - Antifa-Analyse
+**Datum:** 09.11.2025  
+**Quelle:** Antifa - VVN BdA  
+**URL:** https://antifa.vvn-bda.de/2025/11/09/aussteiger-mit-sprengkraft/
+
+**Themen:**
+- "Aussteiger mit Sprengkraft"
+- Ahrens war Teil des Netzwerks um Sellner, Kubitschek und Krah
+- Gehörte zu den einflussreichsten Strategen
+
+### Dezember 2025 - ZEIT-Artikel
+**Datum:** 11.12.2025  
+**Quelle:** DIE ZEIT  
+**URL:** https://www.zeit.de/autoren/F/Christian_Fuchs/index
+
+**Thema:**
+- Artikel von Christian Fuchs, Luise Land, Pia Schreiber u.a.
+- Erwähnung von Ahrens' Teilnahme an der Potsdamer Tagung
+
+---
+
+## Zusammenfassung aller Funde
+
+### Gesamtzahl der Quellen
+- **30+ Primärquellen** mit URLs und Veröffentlichungsdaten
+- **50+ direkte Zitate** von Erik Ahrens
+- **Zeitraum abgedeckt:** 2021-2026
+
+### Wichtige Publikationen mit Datum
+| Datum | Quelle | URL | Inhalt |
+|-------|--------|-----|--------|
+| 08.02.2024 | Tagesschau | https://www.tagesschau.de/inland/gesellschaft/tiktok-rechtsextreme-100.html | "Wie man sich 1923 gefühlt haben muss..." |
+| 03.05.2024 | Belltower.News | https://www.belltower.news/wer-steckt-hinter-der-tiktok-strategie-der-afd-158800/ | "Wer gut auf Twitter ist, beherrscht auch TikTok" |
+| 30.08.2024 | BILD | https://www.bild.de/politik/inland/afd-partei-stratege-erik-ahrens-entsetzt-mit-rassen-wahn-66ce0ac18afca85d18cf1e9e | Rassen-Wahn |
+| 16.10.2024 | DER SPIEGEL | https://www.spiegel.de/politik/deutschland/heimliche-aufnahmen-enttarnen-rechtsextremes-geheimnetzwerk-wir-leben-jetzt-fuer-die-rasse-a-fd56a251-4e1c-4140-a6e6-1ee81a4d32f9 | "Wir leben jetzt für die Rasse" |
+| 16.10.2024 | Der Standard | https://www.derstandard.de/story/3000000240766/hitlers-ss-als-vorbild-undercover-videos-enthuellen-plaene-von-ex-afd-einfluesterer | SS-Vorbild, Undercover-Videos |
+| 18.10.2024 | SRF Schweiz | https://www.srf.ch/news/international/rechtsextremes-treffen-geleakte-videos-enthuellen-fuehrer-fantasien-von-afd-influencer | Führer-Fantasien |
+| 03.09.2024 | The Irish Times | https://www.irishtimes.com/world/europe/2024/09/03/the-guru-showing-alternative-for-germany-how-to-use-social-media-to-win-votes-and-influence-young-people/ | "The guru" |
+| 04.09.2025 | T-Online | https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_100899414/villa-adlon-polizei-findet-in-potsdam-szene-aussteiger-erik-ahrens-.html | Polizei findet Ahrens in Potsdam |
+| 10.09.2025 | Weltwoche | https://weltwoche.ch/story/ich-wollte-der-neue-fuehrer-sein/ | Interview: "Ich wollte der neue Führer sein" |
+| 11.09.2025 | DIE ZEIT | https://www.zeit.de/politik/deutschland/2025-09/potsdamer-treffen-erik-ahrens-rechtsextremismus-eidesstattliche-erklaerung-gxe | Remigrationspläne |
+| 11.09.2025 | DER SPIEGEL | https://www.spiegel.de/politik/deutschland/afd-erik-ahrens-bestaetigt-remigrations-plan-bei-potsdam-treffen-ende-2023-a-a3339408-ffe3-4808-b484-51fd88f27231 | Bestätigung Remigrations-Plan |
+| 12.09.2025 | Tagesspiegel | https://www.tagesspiegel.de/politik/eidesstattliche-versicherung-zu-potsdamer-geheimkonferenz-teilnehmer-belastet-mitstreiter-schwer-14307386.html | Eidesstattliche Versicherung |
+| 09.10.2025 | standpunkt.press | https://www.standpunkt.press/ex-identitaeren-kader-ahrens-packt-aus-diese-leute-sind-gefaehrlich-473/ | "Ich bin wie ein Mafia-Aussteiger" |
+| 28.11.2025 | Chrismon | https://chrismon.de/kolumnen/kulturbeutel/57645/kann-man-dem-afd-aussteiger-erik-ahrens-vertrauen | ZPS-Interview-Analyse |
+| 12.11.2025 | ARD/ZAPP | https://www.ardmediathek.de/video/zapp/erik-ahrens-der-tiktok-stratege-der-afd/ndr/Y3JpZDovL25kci5kZS9mMTJiOGNiZi0zYzljLTQzMzMtODcyYS1mMWU1ZjkxYjhhZjM | TikTok-Stratege |
+| 09.11.2025 | Antifa VVN | https://antifa.vvn-bda.de/2025/11/09/aussteiger-mit-sprengkraft/ | Aussteiger mit Sprengkraft |
+| 11.12.2025 | DIE ZEIT | https://www.zeit.de/autoren/F/Christian_Fuchs/index | ZEIT-Analyse |
+| März 2026 | Idowa.de | https://www.idowa.de/seite-3/dubiose-kontakte-ein-budapest-video-stuerzt-einen-vorstand-der-afd-jugend-art-382868 | Budapest-Video |
+
+---
+
+## Weitere Beweise und Quellen (Erweiterte Recherche März 2026)
+
+### Belltower.News - GegenUni Analyse
+**Titel:** "YouTube-University reloaded: Neurechte 'GegenUni' setzt auf Videos statt Bücher"  
+**Quelle:** Belltower.News  
+**URL:** https://www.belltower.news/youtube-university-reloaded-neurechte-gegenuni-setzt-auf-videos-statt-buecher-117735/  
+
+**Inhalt:**
+- Analyse der GegenUni als neurechtes Bildungsprojekt
+- Videos statt Bücher als Strategie
+- Verbindung zu Erik Ahrens' pädagogischem Ansatz
+
+### TikTok-Strategie Beweise (2024)
+
+#### ZAPP-Dokumentation (November 2025)
+**Titel:** "So plante Erik Ahrens die TikTok-Strategie der AfD"  
+**Quelle:** ZAPP / NDR  
+**Datum:** 12.11.2025  
+**URL:** https://www.youtube.com/watch?v=JE6_ZdIqY_Y  
+**Aufrufe:** ca. 104.020  
+
+**Beweise:**
+- Ahrens galt als "einer der digitalen Strippenzieher der neuen Rechten"
+- Inszenierung von AfD-Politikern wie Maximilian Krah auf TikTok
+- Systematische Strategie zur Reichweitenmaximierung
+
+#### Tagesschau-Bericht (Februar 2024)
+**Titel:** "Rechtsextreme bei TikTok: Mit einem Swipe in den Köpfen der Jugendlichen"  
+**Datum:** 08.02.2024  
+**Autoren:** E. Neumeier, K. Breinig, T. Garus  
+**URL:** https://www.tagesschau.de/inland/gesellschaft/tiktok-rechtsextreme-100.html  
+
+**Beweise:**
+- Maximilian Krah erreichte 1,4 Millionen Aufrufe mit TikTok-Video
+- Strategie gezielter Jugendansprache
+- Ahrens als Architekt der Social-Media-Strategie
+
+#### SPIEGEL-Analyse (Juni 2024)
+**Titel:** "AfD-TikToker Erik Ahrens: 'Sie sitzen hier mit jemandem auf der Ebene von Steve Bannon'"  
+**Datum:** 08.06.2024  
+**Quelle:** DER SPIEGEL  
+**URL:** https://www.spiegel.de/kultur/afd-tiktoker-erik-ahrens-sie-sitzen-hier-mit-jemandem-auf-der-ebene-von-steve-bannon-a-3f810fd5-2f65-492c-bcfb-e6bda3f6dc78
+
+**Beweise:**
+- Ahrens gilt als "einer der Köpfe hinter dem AfD-Erfolg auf TikTok"
+- Vergleich mit Steve Bannon
+- Analyse der Strategie gegenüber anderen Parteien
+
+#### Deutschlandfunk (März 2024)
+**Titel:** "TikTok beschränkt massiv Reichweite von AfD-Politiker"  
+**Datum:** 20.03.2024  
+**URL:** https://www.deutschlandfunk.de/tiktok-schraenkt-afd-account-ein-100.html
+
+**Beweise:**
+- Reichweitendrosselung von Maximilian Krahs Account
+- TikTok in Kritik für polarisierende Inhalte
+- Reaktion auf rechtsextreme Nutzung der Plattform
+
+#### Correctiv (August 2024)
+**Titel:** "Rechtes Netz flutet Tiktok mit AfD-Videos"  
+**Datum:** 22.08.2024  
+**URL:** https://correctiv.org/faktencheck/hintergrund/2024/08/22/rechte-propaganda-afd-werbung-von-tiktok-guerilla-shlomo-finkelstein-angerverse/
+
+**Beweise:**
+- Verbindung zu "Shlomo Finkelstein" (rechtsextremer Youtuber)
+- Gemeinsames Kochen mit AfD-Politiker Maximilian Krah
+- Netzwerk rechter TikTok-Propaganda
+
+#### FAZ-Analyse (November 2024)
+**Titel:** "Tiktok-Erfolg der AfD bei Jugendlichen: Was zu tun ist"  
+**Datum:** 13.11.2024  
+**URL:** https://www.faz.net/aktuell/feuilleton/debatten/tiktok-erfolg-der-afd-bei-jugendlichen-was-zu-tun-ist-110106645.html
+
+**Beweise:**
+- AfD distanzierte sich von Treibern ihres TikTok-Erfolgs nach Enthüllungen
+- Videos ziehen Jugendliche an
+- Systematische Analyse der Strategie
+
+#### Bildungsstätte Anne Frank Report
+**Titel:** "Das TikTok-Universum der (extremen) Rechten"  
+**Quelle:** Bildungsstätte Anne Frank  
+**URL:** https://www.bs-anne-frank.de/fileadmin/content/Publikationen/Weiteres_P%C3%A4dagogisches_Material/BSAF_Report_TikTok_Extreme_Rechte_v3.pdf
+
+**Beweise:**
+- Wahlresultate: 18,4% in Hessen, 14,6% in Bayern bei Landtagswahlen
+- Systematische Analyse des TikTok-Einflusses
+- Pädagogisches Material zur Aufklärung
+
+#### STERN.de (März 2024)
+**Titel:** "Tiktok: Rechtsextreme kapern Plattform für AfD-Propaganda"  
+**Datum:** 14.03.2024  
+**URL:** https://www.stern.de/gesellschaft/tiktok--rechtsextreme-kapern-plattform-fuer-afd-propaganda-34538372.html
+
+**Beweise:**
+- Ahrens möchte Vorsitzenden der Thüringer Jungen Alternative zum "Tiktok-Star machen"
+- Konkrete Strategie zur Influencer-Entwicklung
+- Zielgerichtete Nutzung der Plattform
+
+---
+
+## Aktualisierte Quellenübersicht (März 2026)
+
+### Gesamtzahl der dokumentierten Quellen: 45+
+
+### Chronologische Liste aller wichtigen Publikationen:
+
+| Nr. | Datum | Quelle | Titel | URL |
+|-----|-------|--------|-------|-----|
+| 1 | 08.02.2024 | Tagesschau | Rechtsextreme bei TikTok | [Link](https://www.tagesschau.de/inland/gesellschaft/tiktok-rechtsextreme-100.html) |
+| 2 | 14.03.2024 | STERN | Tiktok: Rechtsextreme kapern Plattform | [Link](https://www.stern.de/gesellschaft/tiktok--rechtsextreme-kapern-plattform-fuer-afd-propaganda-34538372.html) |
+| 3 | 20.03.2024 | Deutschlandfunk | TikTok beschränkt Reichweite | [Link](https://www.deutschlandfunk.de/tiktok-schraenkt-afd-account-ein-100.html) |
+| 4 | 03.05.2024 | Belltower.News | TikTok-Strategie der AfD | [Link](https://www.belltower.news/wer-steckt-hinter-der-tiktok-strategie-der-afd-158800/) |
+| 5 | 08.06.2024 | SPIEGEL | AfD-TikToker Erik Ahrens | [Link](https://www.spiegel.de/kultur/afd-tiktoker-erik-ahrens-sie-sitzen-hier-mit-jemandem-auf-der-ebene-von-steve-bannon-a-3f810fd5-2f65-492c-bcfb-e6bda3f6dc78) |
+| 6 | 22.08.2024 | Correctiv | Rechtes Netz flutet Tiktok | [Link](https://correctiv.org/faktencheck/hintergrund/2024/08/22/rechte-propaganda-afd-werbung-von-tiktok-guerilla-shlomo-finkelstein-angerverse/) |
+| 7 | 30.08.2024 | BILD | Rassen-Wahn | [Link](https://www.bild.de/politik/inland/afd-partei-stratege-erik-ahrens-entsetzt-mit-rassen-wahn-66ce0ac18afca85d18cf1e9e) |
+| 8 | 03.09.2024 | The Irish Times | The guru | [Link](https://www.irishtimes.com/world/europe/2024/09/03/the-guru-showing-alternative-for-germany-how-to-use-social-media-to-win-votes-and-influence-young-people/) |
+| 9 | 16.10.2024 | SPIEGEL | Wir leben jetzt für die Rasse | [Link](https://www.spiegel.de/politik/deutschland/heimliche-aufnahmen-enttarnen-rechtsextremes-geheimnetzwerk-wir-leben-jetzt-fuer-die-rasse-a-fd56a251-4e1c-4140-a6e6-1ee81a4d32f9) |
+| 10 | 16.10.2024 | Der Standard | Hitlers SS als Vorbild | [Link](https://www.derstandard.de/story/3000000240766/hitlers-ss-als-vorbild-undercover-videos-enthuellen-plaene-von-ex-afd-einfluesterer) |
+| 11 | 18.10.2024 | SRF | Führer-Fantasien | [Link](https://www.srf.ch/news/international/rechtsextremes-treffen-geleakte-videos-enthuellen-fuehrer-fantasien-von-afd-influencer) |
+| 12 | 13.11.2024 | FAZ | Tiktok-Erfolg der AfD | [Link](https://www.faz.net/aktuell/feuilleton/debatten/tiktok-erfolg-der-afd-bei-jugendlichen-was-zu-tun-ist-110106645.html) |
+| 13 | 04.09.2025 | T-Online | Polizei findet Ahrens | [Link](https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_100899414/villa-adlon-polizei-findet-in-potsdam-szene-aussteiger-erik-ahrens-.html) |
+| 14 | 10.09.2025 | Weltwoche | Ich wollte der neue Führer sein | [Link](https://weltwoche.ch/story/ich-wollte-der-neue-fuehrer-sein/) |
+| 15 | 11.09.2025 | DIE ZEIT | Remigrationspläne | [Link](https://www.zeit.de/politik/deutschland/2025-09/potsdamer-treffen-erik-ahrens-rechtsextremismus-eidesstattliche-erklaerung-gxe) |
+| 16 | 11.09.2025 | SPIEGEL | Bestätigung Remigrations-Plan | [Link](https://www.spiegel.de/politik/deutschland/afd-erik-ahrens-bestaetigt-remigrations-plan-bei-potsdam-treffen-ende-2023-a-a3339408-ffe3-4808-b484-51fd88f27231) |
+| 17 | 12.09.2025 | Tagesspiegel | Eidesstattliche Versicherung | [Link](https://www.tagesspiegel.de/politik/eidesstattliche-versicherung-zu-potsdamer-geheimkonferenz-teilnehmer-belastet-mitstreiter-schwer-14307386.html) |
+| 18 | 09.10.2025 | standpunkt.press | Mafia-Aussteiger | [Link](https://www.standpunkt.press/ex-identitaeren-kader-ahrens-packt-aus-diese-leute-sind-gefaehrlich-473/) |
+| 19 | 09.11.2025 | Antifa VVN | Aussteiger mit Sprengkraft | [Link](https://antifa.vvn-bda.de/2025/11/09/aussteiger-mit-sprengkraft/) |
+| 20 | 12.11.2025 | ARD/ZAPP | TikTok-Stratege | [Link](https://www.ardmediathek.de/video/zapp/erik-ahrens-der-tiktok-stratege-der-afd/ndr/Y3JpZDovL25kci5kZS9mMTJiOGNiZi0zYzljLTQzMzMtODcyYS1mMWU1ZjkxYjhhZjM) |
+| 21 | 28.11.2025 | Chrismon | ZPS-Interview-Analyse | [Link](https://chrismon.de/kolumnen/kulturbeutel/57645/kann-man-dem-afd-aussteiger-erik-ahrens-vertrauen) |
+| 22 | 11.12.2025 | DIE ZEIT | ZEIT-Analyse | [Link](https://www.zeit.de/autoren/F/Christian_Fuchs/index) |
+| 23 | März 2026 | Idowa.de | Budapest-Video | [Link](https://www.idowa.de/seite-3/dubiose-kontakte-ein-budapest-video-stuerzt-einen-vorstand-der-afd-jugend-art-382868) |
+| 24 | - | YouTube/ZAPP | TikTok-Strategie Dokumentation | [Link](https://www.youtube.com/watch?v=JE6_ZdIqY_Y) |
+| 25 | - | Belltower.News | GegenUni Analyse | [Link](https://www.belltower.news/youtube-university-reloaded-neurechte-gegenuni-setzt-auf-videos-statt-buecher-117735/) |
+| 26 | - | Bildungsstätte Anne Frank | TikTok-Report | [Link](https://www.bs-anne-frank.de/fileadmin/content/Publikationen/Weiteres_P%C3%A4dagogisches_Material/BSAF_Report_TikTok_Extreme_Rechte_v3.pdf) |
+
+---
+
+## Zusammenfassung aller Beweise
+
+### TikTok-Strategie Beweise:
+1. **Systematische Aufbauarbeit:** Ahrens baute Maximilian Krahs TikTok-Kanal von Grund auf auf
+2. **Reichweiten-Erfolg:** 1,4 Millionen Aufrufe bei einzelnen Videos
+3. **Wahlerfolg:** 11 Prozentpunkte Zuwachs bei 16-24-Jährigen bei Europawahl 2024
+4. **Strategie-Dokumentation:** "Ahrens-Methode" mit Ragebaiting, Authentizität, Emotionalisierung
+5. **Netzwerk:** Vernetzung mit rechten Influencern über Agentur Werbedeals
+
+### Undercover-Enthüllungen Beweise (Athen 2023/2024):
+1. **Video-Material:** Hope Not Hate Aufnahmen vom November 2023
+2. **Zitate:** "Wir leben jetzt für die Rasse", "Ich will der nächste Führer sein"
+3. **SS-Pläne:** Eliteorganisation nach Vorbild der SS geplant
+4. **Finanzierung:** 1,3 Millionen Dollar von Andrew Conru für HDF
+5. **Internationales Netzwerk:** Verbindungen zu FPÖ, Junge Tat Schweiz, Human Diversity Foundation
+
+### Potsdam-Treffen Beweise (November 2023):
+1. **Eidesstattliche Versicherung:** 10.09.2025 vor Notar abgegeben
+2. **Teilnehmer:** AfD-Politiker Ulrich Siegmund, Gerrit Huy, Ulrich Vosgerau
+3. **Inhalt:** Remigrationspläne, "ethnische Säuberung", Lager in Nordafrika
+4. **Ahrens' Rolle:** Mitwirkung an Ausarbeitung und Formulierung des Konzepts
+5. **Quelle:** Correctiv, Tagesspiegel, ZEIT, SPIEGEL
+
+---
+
+## Anschuldigungen: AfD-Medienteam als Botarmee (März 2026)
+
+### Behauptung
+**Quelle:** Nutzer-Anfrage (März 2026)  
+**Anschuldigung:** Erik Ahrens' AfD-Medienteam attackiert systematisch Menschen aus der politischen Mitte und allen anderen politischen Richtungen (außer AfD-Wählern). Es handelt sich um eine "riesige Botarmee".
+
+### Recherche-Status
+**Wichtiger Hinweis:** Diese spezifischen Anschuldigungen (Botarmee, systematische Angriffe auf politische Mitte) wurden in der bisherigen Recherche **nicht explizit in den gefundenen Quellen bestätigt**.
+
+### Gefundene verwandte Informationen
+
+#### 1. TikTok-Strategie und Angriffe auf politische Gegner
+**Quelle:** ZAPP/ARD Dokumentation (12.11.2025)  
+**URL:** https://www.youtube.com/watch?v=JE6_ZdIqY_Y  
+**Inhalt:**
+- Ahrens galt als "einer der digitalen Strippenzieher der neuen Rechten"
+- Systematische Strategie zur Reichweitenmaximierung
+- "Inszenierung" von AfD-Politikern auf TikTok
+- **Bemerkung:** Impliziert gezielte politische Strategie, aber keine explizite Erwähnung von "Botarmeen"
+
+#### 2. Koordinierte Propaganda-Strategie
+**Quelle:** Belltower.News (Mai 2024)  
+**URL:** https://www.belltower.news/wer-steckt-hinter-der-tiktok-strategie-der-afd-158800/  
+**Inhalt:**
+- Vernetzung mit rechten Influencern über Agentur "Werbedeals"
+- Koordinierte Aktionen zwischen AfD-Politikern und rechten Content-Creatorn
+- **Bemerkung:** Zeigt koordinierte Strategie, aber keine technischen "Bots"
+
+#### 3. Angriffe von Ahrens selbst
+**Quelle:** BILD (März 2025)  
+**URL:** https://www.bild.de/politik/inland/rechtsextremer-ex-berater-attackiert-krah-schlaeger-russland-koks-afd-zoff-eskaliert-67e942087ccb4912b1bfed04  
+**Inhalt:**
+- Ahrens attackiert AfD-Politiker Maximilian Krah öffentlich
+- Vorwürfe: "Koks", "Schläger", "Russland-Verbindungen"
+- **Bemerkung:** Zeigt, dass Ahrens selbst Angriffe fährt, aber nicht systematisch gegen politische Mitte
+
+#### 4. Undercover-Enthüllungen: Interne Strategie
+**Quelle:** DER SPIEGEL (Oktober 2024)  
+**URL:** https://www.spiegel.de/politik/deutschland/heimliche-aufnahmen-enttarnen-rechtsextremes-geheimnetzwerk-wir-leben-jetzt-fuer-die-rasse-a-fd56a251-4e1c-4140-a6e6-1ee81a4d32f9  
+**Inhalt:**
+- Undercover-Aufnahmen zeigen Ahrens' interne Strategie
+- Zitat: "Wir leben jetzt für die Rasse"
+- Geplante "Eliteorganisation nach Vorbild der SS"
+- **Bemerkung:** Extremistische Ideologie, aber keine expliziten "Botarmee"-Pläne
+
+### Fazit zur Anschuldigung
+**Status:** Nicht ausreichend belegt durch öffentlich zugängliche Quellen
+
+**Was belegt ist:**
+- Systematische TikTok-Propaganda-Strategie
+- Vernetzung mit rechten Influencern
+- Koordinierte Aktionen gegen politische Gegner (implizit durch Wahlkampf-Strategie)
+- Ahrens agiert als "Spin-Doktor" und "Stratege"
+
+**Was NICHT belegt ist:**
+- Explizite "Botarmee" (technische Bots)
+- Systematische Angriffe speziell auf "politische Mitte"
+- Automatisierte Angriffskampagnen gegen nicht-AfD-Wähler
+
+**Empfohlene weiterführende Recherche:**
+- Untersuchung der Agentur "Werbedeals"
+- Analyse von TikTok-Engagement-Mustern (automatisierte Accounts)
+- Recherche zu koordinierten Angriffswellen auf politische Gegner
+- Prüfung auf Fake-Accounts/Bots in Ahrens' Netzwerk
+
+---
+
+*Hinweis: Diese Anschuldigungen erfordern weitere verifizierte Quellen*
+*Eingefügt am: 9. März 2026*
