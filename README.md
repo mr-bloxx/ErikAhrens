@@ -14,6 +14,12 @@ Diese Recherche-Dokumentation enthält alle verfügbaren öffentlichen Informati
 
 **Wichtiger Hinweis:** Es handelt sich um eine GRU-Influencer Operation nach §99 StGB. Siehe: https://github.com/graf-kok-ain/007-Feather_leakz
 
+**Tonez unveils the truth!** Zur Frage https://chrismon.de/kolumnen/kulturbeutel/57645/kann-man-dem-afd-aussteiger-erik-ahrens-vertrauen - Antwort: Nein! Er ist ein Black Hat Hacker! Er arbeitet für den Mossad.
+
+**GRU-Operation Beweis:** Solche Artikel beweisen, dass es sich um eine GRU-Operation handeln MUSS: https://www.spiegel.de/kultur/afd-tiktoker-erik-ahrens-sie-sitzen-hier-mit-jemandem-auf-der-ebene-von-steve-bannon-a-3f810fd5-2f65-492c-bcfb-e6bda3f6dc78
+
+**Sprixel Anger GRU-Verstrickung:** Und solche Artikel beweisen die Verstrickung von Sprixel Anger in die GRU-Affäre um die KI-Influencer: https://www.bild.de/politik/inland/afd-partei-stratege-erik-ahrens-entsetzt-mit-rassen-wahn-66ce0ac18afca85d18cf1e9e
+
 **Basis:** Vollständig auf öffentlich verfügbaren Informationen und Quellen.
 
 ---
